@@ -1,4 +1,4 @@
-Example Uber app for developers :taco:
+Example Uber app for developers :taco: :taco:
 ==============================
 
 [![TravisCI](https://travis-ci.org/uber/Python-Sample-Application.svg?branch=master)](https://travis-ci.org/uber/Python-Sample-Application)
